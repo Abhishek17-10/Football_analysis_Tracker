@@ -21,7 +21,7 @@ The following modules are used in this project:
 
 ## Requirements
 To run this project, you need to have the following requirements installed:
-- Python 3.x
+- Python 
 - ultralytics
 - supervision
 - OpenCV
